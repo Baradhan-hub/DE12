@@ -37,7 +37,7 @@ Program for 4 Bit Ripple Counter and verify its truth table in quartus using Ver
 
 **PROGRAM**
 ```
-Developed by:SURYA D RegisterNumber: 24901185
+Developed by:Baradhan.L RegisterNumber: 24005473
 ```
 ```
 module RippleCounter(
